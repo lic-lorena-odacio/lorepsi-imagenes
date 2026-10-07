@@ -35,6 +35,8 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 
 - **Estilo de diseño elegido por Lorena (06/10/2026: "esta calidad de diseño es hermosa"):** el del manual de marca de GoroGoro, como el carrusel de presentación (`posteos/presentacion/`): foto y panel arena con "C R I S Á L I D A" espaciado y rayita amarilla, etiquetas blancas, pestañas de color, tarjetas blancas, recuadro con borde lavanda, fondos planos de la paleta (lavanda, menta, arena, crema, blanco). Portadas armónicas pero no iguales; el logo no en todas, y cuando va, en la versión que corresponde al fondo (blanco sobre color).
 
+- **Foto de Lorena (su cara): solo en el carrusel de presentación**, donde va dos veces (portada y cierre). En ninguna otra publicación (pedido de Lorena, 06/10/2026).
+
 ## Organización
 
 - Una carpeta por publicación, con el mismo nombre que en el proyecto de placas (por ejemplo `yalom-grupo/`).
