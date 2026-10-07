@@ -33,6 +33,8 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 - **Portada:** todo el contenido dentro de la zona central que muestra la grilla del perfil (recorte aproximado x 140–940, y 145–1205 en 1080 × 1350).
 - **Recuadro "Escríbeme por WhatsApp" en el cierre: no va por defecto** (pedido de Lorena, 06/10/2026: "me parece agresivo en todas; de vez en cuando mención mejor"). Se usa solo de vez en cuando, por ejemplo en publicaciones de propuestas (grupos, talleres). En la plantilla se activa con `conContacto: true`.
 
+- **Estilo de diseño elegido por Lorena (06/10/2026: "esta calidad de diseño es hermosa"):** el del manual de marca de GoroGoro, como el carrusel de presentación (`posteos/presentacion/`): foto y panel arena con "C R I S Á L I D A" espaciado y rayita amarilla, etiquetas blancas, pestañas de color, tarjetas blancas, recuadro con borde lavanda, fondos planos de la paleta (lavanda, menta, arena, crema, blanco). Portadas armónicas pero no iguales; el logo no en todas, y cuando va, en la versión que corresponde al fondo (blanco sobre color).
+
 ## Organización
 
 - Una carpeta por publicación, con el mismo nombre que en el proyecto de placas (por ejemplo `yalom-grupo/`).
