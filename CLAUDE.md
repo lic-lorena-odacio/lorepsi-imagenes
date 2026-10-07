@@ -28,6 +28,11 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 6. **Cancelar.** Si Lorena pide frenarla, vuelve a borrador.
 7. **Aviso.** Claude confirma qué quedó programado y cuándo; después de la hora, verifica que salió y avisa.
 
+## Criterios de las placas · OBLIGATORIO
+
+- **Portada:** todo el contenido dentro de la zona central que muestra la grilla del perfil (recorte aproximado x 140–940, y 145–1205 en 1080 × 1350).
+- **Recuadro "Escríbeme por WhatsApp" en el cierre: no va por defecto** (pedido de Lorena, 06/10/2026: "me parece agresivo en todas; de vez en cuando mención mejor"). Se usa solo de vez en cuando, por ejemplo en publicaciones de propuestas (grupos, talleres). En la plantilla se activa con `conContacto: true`.
+
 ## Organización
 
 - Una carpeta por publicación, con el mismo nombre que en el proyecto de placas (por ejemplo `yalom-grupo/`).
