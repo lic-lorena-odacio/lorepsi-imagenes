@@ -37,6 +37,8 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 
 - **Foto de Lorena (su cara): solo en el carrusel de presentación**, donde va dos veces (portada y cierre). En ninguna otra publicación (pedido de Lorena, 06/10/2026).
 
+- **Versiones del logo (enviadas por Lorena, 06/10/2026, guardadas en `posteos/plantilla/assets/`):** `logo-blanco-960.png` (todo blanco; para fondos lavanda y menta) y `logo-linea-960.png` (mariposa con línea negra sobre círculo blanco, texto blanco; también sobre arena, donde el blanco solo se pierde). `logo-color-960.png` sobre crema o blanco.
+
 ## Organización
 
 - Una carpeta por publicación, con el mismo nombre que en el proyecto de placas (por ejemplo `yalom-grupo/`).
