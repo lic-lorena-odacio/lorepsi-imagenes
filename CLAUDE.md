@@ -30,6 +30,7 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 
 ## Criterios de las placas · OBLIGATORIO
 
+- **Máximo 10 placas por carrusel (pedido de Lorena, 11/10/2026).** Instagram permite 20, pero la conexión que usan Metricool y las demás apps de programación publica solo las primeras 10 y corta el resto sin avisar (pasó con el carrusel de EMDR de 17 placas). Con 10 o menos, sale automático desde Metricool. Las fuentes van en el pie, sin placa propia. Los carruseles ya hechos o en proceso con más de 10 se dejan así y los sube Lorena a mano; no se programan en Metricool como automáticos.
 - **Portada:** todo el contenido dentro de la zona central que muestra la grilla del perfil (recorte aproximado x 140–940, y 145–1205 en 1080 × 1350).
 - **Recuadro "Escríbeme por WhatsApp" en el cierre: no va por defecto** (pedido de Lorena, 06/10/2026: "me parece agresivo en todas; de vez en cuando mención mejor"). Se usa solo de vez en cuando, por ejemplo en publicaciones de propuestas (grupos, talleres). En la plantilla se activa con `conContacto: true`.
 
