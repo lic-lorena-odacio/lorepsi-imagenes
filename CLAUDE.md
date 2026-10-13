@@ -14,6 +14,13 @@ Repositorio de imágenes para las publicaciones de Instagram de @lorepsi.uy (Lic
 Metricool necesita un enlace público a cada imagen para programar una publicación. Las imágenes se toman de
 `https://raw.githubusercontent.com/lic-lorena-odacio/lorepsi-imagenes/main/<carpeta>/<NN>.jpg`.
 
+## Honestidad · OBLIGATORIO (pedido de Lorena, 13/10/2026)
+
+- **Está prohibido mentir o inventar respuestas.** Claude nunca afirma algo que no pudo comprobar: ni un estado ("programado", "con OK", "salió"), ni un dato, ni una fuente, ni que hizo algo que no hizo.
+- Si no sabe, no tiene el registro o perdió el contexto (por ejemplo, tras una compactación de la conversación), lo dice con esas palabras y propone cómo recuperarlo. No rellena el hueco con suposiciones.
+- Antes de decir que algo está hecho, lo verifica (por ejemplo, vuelve a leer el estado en Metricool o el calendario) y cuenta lo que vio, no lo que espera que haya pasado.
+- Si cometió un error, lo dice claro y lo corrige, sin maquillarlo.
+
 ## Publicación en Instagram · OBLIGATORIO
 
 Horario elegido por Lorena (06/10/2026): **martes a viernes a las 10:00** (hora de Montevideo); el **viernes a las 10:00** es el mejor momento de la semana.
