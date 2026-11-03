@@ -49,6 +49,8 @@ Protocolo (pedido de Lorena, 06/10/2026; flexibilizado por ella el mismo día: "
 
 - **Foto de Lorena (su cara): solo en el carrusel de presentación**, donde va dos veces (portada y cierre). En ninguna otra publicación (pedido de Lorena, 06/10/2026).
 
+- **Fotos en los carruseles: de ahora en más, cada carrusel lleva algunas fotos** (pedido de Lorena, 03/11/2026: «De ahora en más agregamos este recurso de ponerle algunas fotos a los carruseles»). Fotos acordes al tema, bellas y de calidad (Unsplash, uso libre; registrar la descarga con `download_asset`), en placas de texto o en la portada, sin tapar texto y cada una con su propia composición (franja, círculo, banda con filete dorado, arco, recuadro redondeado, copia impresa). Claude propone un tablero con 3–4 fotos por carrusel y la placa sugerida para cada una; Lorena elige los números. Primera vez: carruseles del 10/11 al 11/12 (script en `posteos/fotos-carruseles/comp/componer.py` de la sesión, que pega la foto sobre la placa ya aprobada sin tocar el texto).
+
 - **Versiones del logo (enviadas por Lorena, 06/10/2026, guardadas en `posteos/plantilla/assets/`):** `logo-blanco-960.png` (todo blanco; para fondos lavanda y menta) y `logo-linea-960.png` (mariposa con línea negra sobre círculo blanco, texto blanco; también sobre arena, donde el blanco solo se pierde). `logo-color-960.png` sobre crema o blanco.
 
 ## Organización
